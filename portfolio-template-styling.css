@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Frijole', cursive;
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+#title-text {
+  margin-top: 20px
+}
+
+.pic {
+  display: block;
+  margin: 0 auto;
+}
+
+.thumbnail img {
+    height:250px;
+    width:100%;
+}
